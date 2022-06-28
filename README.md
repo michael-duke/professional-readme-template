@@ -40,18 +40,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Michael Mesfin**
 
 - GitHub: [@michael-duke](https://github.com/michael-duke)
 - Twitter: [@MikeDuke21](https://twitter.com/MikeDuke21)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/michael-21-duke/)
 
+👤 **Author2**
+
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
 
 
 ## 🤝 Contributing
