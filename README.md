@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@michael-duke](https://github.com/michael-duke)
 - Twitter: [@MikeDuke21](https://twitter.com/MikeDuke21)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/michael-21-duke/)
+- LinkedIn: [MICHAEL MESFIN](https://linkedin.com/in/https://www.linkedin.com/in/michael-21-duke/)
 
 👤 **Author2**
 
