@@ -11,9 +11,9 @@
 - Frameworks
 - Technologies used
 
-## Live Demo (if available)
+## Live Demo 
 
-[Live Demo Link](https://livedemo.com)
+in progess :smile:
 
 
 ## Getting Started
